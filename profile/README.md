@@ -11,7 +11,10 @@ and there is no date yet for the 64x version.
 - Cactus
 - Cake (with candle too)
 - Candles
+- Cartography Table
 - Chain
+- Comparator
+- Composter
 - Cut Sandstone Slabs
 - Doors 
 - End Portal Frames
@@ -28,9 +31,12 @@ and there is no date yet for the 64x version.
 - Mangrove Propagule
 - Mushrooms (brown, red, fungus)
 - Nether Sprout
+- Pistons
 - Pointed Dripstone
-- Red Sandstone Walls (red sandstone too)
 - Rails (Activator, Detector, Powered, Normal)
+- Redstone
+- Red Sandstone Walls (red sandstone too)
+- Repeater
 - Sandstone Slabs (smart model)
 - Sandstone Stairs (smart model)
 - Snow Layers
